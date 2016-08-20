@@ -1,9 +1,13 @@
-h1{
+h1 {
 	font-size: 30px;
 	font-weight: bold;
-	margin: 15px 0;
+	margin: 20px 0;
 }
 
-p{
+p {
 	margin: 20px 0;
+}
+
+.container {
+	padding: 0 20px;
 }
